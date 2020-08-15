@@ -1,0 +1,9 @@
+.box{
+  width:90vw;
+  height:90vh;
+  margin: 5vh 5vw;
+  background-color: rgba(0,0,0,0.9);
+  position: absolute;
+  top: 0;
+  left: 0;
+}
